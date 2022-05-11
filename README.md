@@ -5,11 +5,10 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning java spring boot
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with spring boot
-
-
-#My Skils
+- 📫 How to reach me hassankhalaf2361999@gmail.com
+ -💬 Ask me about java,spring boot mvc,my_sql
+##My Skils
 java,c++,dart,my_sql,spring boot mvc,html,css
  
 
