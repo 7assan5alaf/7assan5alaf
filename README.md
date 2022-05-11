@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi i am Hassn Khalaf 👋
 
-**7assan5alaf/7assan5alaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**7assan5alaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,5 +10,7 @@ Here are some ideas to get you started:
 
 
 #My Skils
+java,c++,dart,my_sql,spring boot mvc,html,css
+ 
 
 
